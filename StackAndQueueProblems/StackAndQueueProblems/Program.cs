@@ -23,3 +23,11 @@ obj3.Enqueue(30);
 obj3.Enqueue(70);
 
 obj3.display();
+
+//UC4
+Queue_DequeueOperation obj4 = new Queue_DequeueOperation();
+obj4.Enqueue(56);
+obj4.Enqueue(30);
+obj4.Enqueue(70);
+
+obj4.Dequeue();
